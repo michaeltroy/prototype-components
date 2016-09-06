@@ -1,15 +1,18 @@
-# Tiny Build
+# Component prototyping workspace
 
-Tired of dealing with a front-end mess for tiny websites or prototyping? Tiny Build aims to solve that problem.
+## Todo
 
-Say hello to Tiny Build:
+- Navigation
+  - Drawer
+  - Dropdown
 
-- NPM for package management (duh!)
-- NPM to run the scripts
-- Browserify to bundle the javascript
-- Babel the ES6 to ES5 transpiler
-- cssnext for transpiling the css
-- React for UI components
+- Cards
+- Colours
+- Buttons
+- Inputs
+- Content
+- Grid
+- Spacing
 
 ## Run the scripts
 
